@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import axios from "axios";
 import "./App.css";
 import Background from "./images/calido.jpg";
 
