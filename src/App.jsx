@@ -1,7 +1,7 @@
-import axios from "axios";
 import { useEffect, useState } from "react";
 import "./App.css";
 import Background from "./images/calido.jpg";
+import axios from "axios";
 
 function App() {
   const [climate, setClimate] = useState({});
